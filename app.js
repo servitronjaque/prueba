@@ -1,7 +1,3 @@
-require('coffee-script')
-
-require('./servers/servidor.coffee')
-=======
 var http = require("http");
 
 function onRequest(request, response) {
